@@ -1,0 +1,54 @@
+{
+  "post_data": [
+    {
+      "template_id": "2",
+      "reserve_hour": "1",
+      "reserve_minute": "12"
+    },
+    {
+      "template_id": "3",
+      "reserve_hour": "12",
+      "reserve_minute": "10"
+    },
+    {
+      "template_id": "4",
+      "reserve_hour": "13",
+      "reserve_minute": "34"
+    },
+    {
+      "template_id": "5",
+      "reserve_hour": "18",
+      "reserve_minute": "43"
+    },
+    {
+      "template_id": "2",
+      "reserve_hour": "19",
+      "reserve_minute": "23"
+    },
+    {
+      "template_id": "3",
+      "reserve_hour": "20",
+      "reserve_minute": "32"
+    },
+    {
+      "template_id": "4",
+      "reserve_hour": "20",
+      "reserve_minute": "54"
+    },
+    {
+      "template_id": "5",
+      "reserve_hour": "21",
+      "reserve_minute": "34"
+    },
+    {
+      "template_id": "2",
+      "reserve_hour": "22",
+      "reserve_minute": "26"
+    },
+    {
+      "template_id": "3",
+      "reserve_hour": "23",
+      "reserve_minute": "43"
+    }
+  ]
+}
